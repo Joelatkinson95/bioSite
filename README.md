@@ -1,2 +1,5 @@
 # bioSite
-This Repo is for the bioSite project for my CSD340 Web Dev With HTML &amp; CSS
+# CSD 340 Web Development with HTML & CSS
+## Contributors
+- Joel Atkinson
+- Adam Bailey
